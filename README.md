@@ -12,6 +12,7 @@
 -  C++,
 -  PHP,
 -  JavaScript,
+-  React js,
 -  Java,
 -  VB.Net,
 -  Boostrap,
