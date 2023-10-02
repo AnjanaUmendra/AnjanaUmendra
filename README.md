@@ -12,7 +12,8 @@
 -  C++,
 -  PHP,
 -  JavaScript,
--  React js,
+-  ReactJs,
+-  NodeJs
 -  Java,
 -  VB.Net,
 -  Boostrap,
@@ -27,7 +28,7 @@
 - "I'm currently diving deeper into backend development with Node.js"
 
 🤝 Let's Connect:
-- LinkedIn: [https://www.linkedin.com/in/anjana-gangewaththa-034624283]
+- LinkedIn: [https://www.linkedin.com/in/anjana-gangewaththa]
 - Email: [anjanaumendra77@gmail.com]
 
 🚀 I'm excited to learn, grow, and contribute to the tech industry. If you have any exciting opportunities or collaboration ideas, feel free to reach out! Let's make a difference together! 😊
